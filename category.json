@@ -1,0 +1,22 @@
+[
+    {
+        "cat_id": "1",
+        "name": "Adventure",
+        "img" : "https://i.postimg.cc/SRBtjGLG/images.jpg"
+    },
+    {
+        "cat_id": "2",
+        "name": "Horror",
+        "img" : "https://i.postimg.cc/T2CVwhPz/istockphoto-185135052-612x612.jpg"
+    },
+    {
+        "cat_id": "3",
+        "name": "Self Improvement",
+        "img" : "https://i.postimg.cc/GmV9t86m/photo-1576479854195-52883a461a68.jpg"
+    },
+    {
+        "cat_id": "4",
+        "name": "Children",
+        "img" : "https://i.postimg.cc/Z50VZpFs/best-childrens-kids-books-1599680383.jpg"
+    }
+]
